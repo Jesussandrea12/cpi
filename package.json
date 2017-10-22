@@ -1,0 +1,17 @@
+{
+  "title": "cpi",
+  "name": "construcciones, proyectos e ingenieria",
+  "version": "2.0.0",
+  "description": "A single web page for cpi built with Bootstrap",
+  "author": "@jesussandrea12",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "font-awesome": "4.7.0",
+    "gulp": "^3.9.1",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.11.1"
+  },
+  "devDependencies": {
+    "browser-sync": "2.18.13"
+  }
+}
